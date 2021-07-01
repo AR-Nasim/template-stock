@@ -86,3 +86,46 @@ form input[type="submit"]{
     width: 150px;
     text-align: center;
 }
+footer{
+    text-align: center;
+    padding: 30px 0;
+    background-color: #262626;
+    color: white;
+}
+h5 img{
+    width: 50px;
+}
+.info div{
+    margin-top: 50px;
+    margin-left: -5px;
+}
+.col-md-4 img{
+    width: 100px;
+    height: 75px;
+    margin-left: -15px;
+}
+.col-md-4 a{
+    text-decoration: none;
+    font-weight: 700;
+    color: black;
+    transition: .4s;
+}
+.col-md-4 a:hover{
+    color: #68c3a3;
+}
+.support{
+    padding: 20px;
+    border-radius: 15px;
+    border: 1px solid rgb(245, 242, 242);
+    transition: .5s;
+}
+.support:hover{
+    box-shadow: 1px 1px 15px rgb(161, 155, 155);
+}
+.name h1 span{
+    color: #68c3a3;
+}
+.name h1{
+    font-weight: 500;
+    font-size: 48px;
+}
